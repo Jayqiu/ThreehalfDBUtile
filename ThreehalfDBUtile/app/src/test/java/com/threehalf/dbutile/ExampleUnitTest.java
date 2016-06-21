@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * To work on unit tests,  hao de   switch the Test Artifact in the Build Variants view.
+ * To work on unit tests, 测试  switch the Test Artifact in the Build Variants view.
  */
 public class ExampleUnitTest {
     @Test
