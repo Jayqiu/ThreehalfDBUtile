@@ -34,9 +34,6 @@ import java.util.Map;
  * 1.id暂时只支持int类型,不支持uuid,在sqlite中不建议用uuid.
  * 2.现在每个方法都自己开启和关闭事务,暂时还不支持在一个事务中做多个操作然后统一提交事务. <br/>
  * (三)作者寄语:<br/>
- * 昔日有JavaScript借Java发展,今日也希望AHibernate借Hibernate之名发展.
- * 希望这个项目以后会成为开源社区的重要一员,更希望这个项目能给所有Android开发者带便利.
- * 欢迎访问我的博客:http://blog.csdn.net/lk_blog,
  * 这里有这个框架的使用范例和源码,希望朋友们多多交流完善这个框架,共同推动中国开源事业的发展,AHibernate期待与您共创美好未来!!!
  * @date 2016/5/19 18:11
  */
